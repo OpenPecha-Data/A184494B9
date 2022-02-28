@@ -1,0 +1,33 @@
+segment_sources:
+  PCB25BA05:
+    type: origin_type
+    relation: translation
+    language: en
+  P005FFF35:
+    type: origin_type
+    relation: translation
+    language: de
+  P691E63AD:
+    type: origin_type
+    relation: translation
+    language: es
+  PFBC4D5C5:
+    type: origin_type
+    relation: translation
+    language: fr
+  PEE24924E:
+    type: origin_type
+    relation: translation
+    language: nl
+  P30078707:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  fd46bfaae02d43d1bdfd9b6487402c6b:
+    PCB25BA05: c276a238bcde427f9b945d8b4306d0ac
+    P005FFF35: 6f41fbd2ddd042018a32e77fa2045a56
+    P691E63AD: af7609ba4fb44ba78378ae6e9dbe7caf
+    PFBC4D5C5: a99c0b1ab08b4754be076f7f19bbab95
+    PEE24924E: 8888541660274121a754e3816bde5f8a
+    P30078707: 9ecf67ab21c848dcafd9e27dc99eaae2

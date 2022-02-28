@@ -1,0 +1,28 @@
+segment_sources:
+  PCB25BA05:
+    type: origin_type
+    relation: translation
+    language: en
+  P30078707:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  5237d5333bc2440eac56fad0aa764d65:
+    PCB25BA05: 551eeae6788e465a8c6ca47eed97bcf7
+    P30078707: ffeb7a1708dc4418a657330a5f93db29
+  68fc47e2beab427cb3249c57478956fe:
+    PCB25BA05: 5a448e6b5c49443f8e9fe7cac31d0797
+    P30078707: ba4c4a16293f490195f0e669981139f9
+  c0e62782becc4b2184ea14494b83e036:
+    PCB25BA05: ae3dd3b3e3fb47ed8746a8a85a6fb080
+    P30078707: eb43a8ae17bd49b283e24943a2ef7dd1
+  00737e52f8a942b299fa79a23c198e2c:
+    PCB25BA05: 7aabdc1744d64df884fd7e453948372f
+    P30078707: 7c2a9a70192844b08ee32876635e3d9d
+  7c8ec72dd3ae4167b16faba8b394bc53:
+    PCB25BA05: 8e0a3db7f761422685960d9dbdf02e81
+    P30078707: 00755ee41a864f4786e756ad5d85dc73
+  9666b84e14714dd99f2c2a948fccc9fe:
+    PCB25BA05: defb6066807f4d1a880666f67e2d73d8
+    P30078707: 7f3205c36aff4a4d9172ab4369da5cba

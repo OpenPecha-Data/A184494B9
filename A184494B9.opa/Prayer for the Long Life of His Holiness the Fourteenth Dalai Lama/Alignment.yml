@@ -1,0 +1,16 @@
+segment_sources:
+  PCB25BA05:
+    type: origin_type
+    relation: translation
+    language: en
+  P30078707:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  b7c4b38f00cf4b25839ed3fb3ba067f0:
+    PCB25BA05: 007a751bac524547bbf678bd55484873
+    P30078707: 19981827f4074b97a2966ae25bb3adfa
+  9ee0c80d4b5d464bb16db0e3b7eeba70:
+    PCB25BA05: f13f4d63f68c4e08ae4cb9cbd70f86e1
+    P30078707: 32c9f435175041a4b6d8827cb1b33df9
